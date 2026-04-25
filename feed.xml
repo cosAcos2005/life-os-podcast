@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1_0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life OS Podcast</title>
+    <description>NotebookLM が生成したお兄ちゃん専用の学習ポッドキャスト。AI技術・髪物理・グラフィックス・キャリアなど10テーマを深掘り。</description>
+    <link>https://cosacos2005.github.io/life-os-podcast/</link>
+    <language>ja</language>
+    <itunes:author>Mina / Life OS</itunes:author>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://cosacos2005.github.io/life-os-podcast/cover.jpg"/>
+
+    <item>
+      <title>②AI技術・LLM最前線 — 100人のAIエージェントを指揮する時代</title>
+      <description>Claude・ChatGPT・Geminiの最新動向、エージェント型AI、LLM Wikiの設計思想、AI安全性の議論を深掘り。</description>
+      <enclosure
+        url="https://cosacos2005.github.io/life-os-podcast/episodes/002_AI%E6%8A%80%E8%A1%93-LLM%E6%9C%80%E5%89%8D%E7%B7%9A.mp3"
+        length="33047510"
+        type="audio/mpeg"/>
+      <guid isPermaLink="false">life-os-podcast-002</guid>
+      <pubDate>Fri, 25 Apr 2026 19:40:00 +0900</pubDate>
+      <itunes:duration>unknown</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+
+  </channel>
+</rss>
