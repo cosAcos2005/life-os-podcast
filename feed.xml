@@ -10,6 +10,12 @@
     <itunes:author>Mina / Life OS</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://cosacos2005.github.io/life-os-podcast/cover.jpg"/>
+    <image>
+      <url>https://cosacos2005.github.io/life-os-podcast/cover.jpg</url>
+      <title>Life OS Podcast</title>
+      <link>https://cosacos2005.github.io/life-os-podcast/</link>
+    </image>
 
     <item>
       <title>光回線20万還元キャリア別窓口</title>
@@ -19,7 +25,7 @@
         length="24501361"
         type="audio/mpeg"/>
       <guid isPermaLink="false">life-os-podcast-2026-04-19_光回線20万還元キャリア別窓口.mp3</guid>
-      <pubDate>Mon, 27 Apr 2026 12:36:52 +0900</pubDate>
+      <pubDate>Mon, 27 Apr 2026 12:44:57 +0900</pubDate>
       <itunes:episode>1</itunes:episode>
     </item>
 
@@ -31,7 +37,7 @@
         length="39731459"
         type="audio/mpeg"/>
       <guid isPermaLink="false">life-os-podcast-2026-04-19_光回線1ギガキャッシュバックTOP5.mp3</guid>
-      <pubDate>Mon, 27 Apr 2026 12:36:52 +0900</pubDate>
+      <pubDate>Mon, 27 Apr 2026 12:44:58 +0900</pubDate>
       <itunes:episode>2</itunes:episode>
     </item>
 
@@ -43,7 +49,7 @@
         length="33047510"
         type="audio/mpeg"/>
       <guid isPermaLink="false">life-os-podcast-002_AI技術-LLM最前線.mp3</guid>
-      <pubDate>Mon, 27 Apr 2026 12:36:53 +0900</pubDate>
+      <pubDate>Mon, 27 Apr 2026 12:44:58 +0900</pubDate>
       <itunes:episode>3</itunes:episode>
     </item>
 
@@ -55,7 +61,7 @@
         length="40676811"
         type="audio/mpeg"/>
       <guid isPermaLink="false">life-os-podcast-001_髪物理-シミュレーション.mp3</guid>
-      <pubDate>Mon, 27 Apr 2026 12:36:53 +0900</pubDate>
+      <pubDate>Mon, 27 Apr 2026 12:44:58 +0900</pubDate>
       <itunes:episode>4</itunes:episode>
     </item>
   </channel>
