@@ -8,11 +8,20 @@
     <link>https://cosacos2005.github.io/life-os-podcast/</link>
     <language>ja</language>
     <itunes:author>Mina / Life OS</itunes:author>
-    <itunes:category text="Technology">
-      <itunes:category text="Tech News"/>
-    </itunes:category>
+    <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://cosacos2005.github.io/life-os-podcast/cover.jpg"/>
+
+    <item>
+      <title>光回線20万還元キャリア別窓口</title>
+      <description>2026年時点の光回線乗り換えにおいて、**店舗ではなくWeb限定の最強窓口（GMOとくとくBBや公式サイト）**を選び、特定の限定コードを活用することで最大21万円の還元差が生まれる。Y!mobileユーザーはNURO光（公式）またはソフトバンク光（GMO窓口）が最適解。</description>
+      <enclosure
+        url="https://cosacos2005.github.io/life-os-podcast/episodes/2026-04-19_%E5%85%89%E5%9B%9E%E7%B7%9A20%E4%B8%87%E9%82%84%E5%85%83%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E5%88%A5%E7%AA%93%E5%8F%A3.mp3"
+        length="24501361"
+        type="audio/mpeg"/>
+      <guid isPermaLink="false">life-os-podcast-2026-04-19_光回線20万還元キャリア別窓口.mp3</guid>
+      <pubDate>Mon, 27 Apr 2026 12:23:17 +0900</pubDate>
+      <itunes:episode>1</itunes:episode>
+    </item>
 
     <item>
       <title>②AI技術・LLM最前線 — 100人のAIエージェントを指揮する時代</title>
@@ -21,11 +30,21 @@
         url="https://cosacos2005.github.io/life-os-podcast/episodes/002_AI%E6%8A%80%E8%A1%93-LLM%E6%9C%80%E5%89%8D%E7%B7%9A.mp3"
         length="33047510"
         type="audio/mpeg"/>
-      <guid isPermaLink="false">life-os-podcast-002</guid>
-      <pubDate>Fri, 25 Apr 2026 19:40:00 +0900</pubDate>
-      <itunes:duration>unknown</itunes:duration>
+      <guid isPermaLink="false">life-os-podcast-002_AI技術-LLM最前線.mp3</guid>
+      <pubDate>Mon, 27 Apr 2026 12:23:18 +0900</pubDate>
       <itunes:episode>2</itunes:episode>
     </item>
 
+    <item>
+      <title>①髪物理・シミュレーション — リアルタイム物理エンジンの最前線</title>
+      <description>DER・XPBD・MGPBD・NeuralOcksの技術的な深掘り。リアルタイム物理エンジン開発に役立つ内容。</description>
+      <enclosure
+        url="https://cosacos2005.github.io/life-os-podcast/episodes/001_%E9%AB%AA%E7%89%A9%E7%90%86-%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.mp3"
+        length="40676811"
+        type="audio/mpeg"/>
+      <guid isPermaLink="false">life-os-podcast-001_髪物理-シミュレーション.mp3</guid>
+      <pubDate>Mon, 27 Apr 2026 12:23:18 +0900</pubDate>
+      <itunes:episode>3</itunes:episode>
+    </item>
   </channel>
 </rss>
