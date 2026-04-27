@@ -19,8 +19,20 @@
         length="24501361"
         type="audio/mpeg"/>
       <guid isPermaLink="false">life-os-podcast-2026-04-19_光回線20万還元キャリア別窓口.mp3</guid>
-      <pubDate>Mon, 27 Apr 2026 12:23:17 +0900</pubDate>
+      <pubDate>Mon, 27 Apr 2026 12:36:52 +0900</pubDate>
       <itunes:episode>1</itunes:episode>
+    </item>
+
+    <item>
+      <title>光回線1ギガキャッシュバックTOP5</title>
+      <description>4月新生活需要に伴う顧客獲得競争で各社のキャッシュバック額が**過去最高レベルに高騰**しており、実質料金を大幅に抑えて契約できる絶好のタイミング。まさもばチャンネルのランキング形式で戸建て向け光回線TOP5を比較・解説。</description>
+      <enclosure
+        url="https://cosacos2005.github.io/life-os-podcast/episodes/2026-04-19_%E5%85%89%E5%9B%9E%E7%B7%9A1%E3%82%AE%E3%82%AC%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%90%E3%83%83%E3%82%AFTOP5.mp3"
+        length="39731459"
+        type="audio/mpeg"/>
+      <guid isPermaLink="false">life-os-podcast-2026-04-19_光回線1ギガキャッシュバックTOP5.mp3</guid>
+      <pubDate>Mon, 27 Apr 2026 12:36:52 +0900</pubDate>
+      <itunes:episode>2</itunes:episode>
     </item>
 
     <item>
@@ -31,8 +43,8 @@
         length="33047510"
         type="audio/mpeg"/>
       <guid isPermaLink="false">life-os-podcast-002_AI技術-LLM最前線.mp3</guid>
-      <pubDate>Mon, 27 Apr 2026 12:23:18 +0900</pubDate>
-      <itunes:episode>2</itunes:episode>
+      <pubDate>Mon, 27 Apr 2026 12:36:53 +0900</pubDate>
+      <itunes:episode>3</itunes:episode>
     </item>
 
     <item>
@@ -43,8 +55,8 @@
         length="40676811"
         type="audio/mpeg"/>
       <guid isPermaLink="false">life-os-podcast-001_髪物理-シミュレーション.mp3</guid>
-      <pubDate>Mon, 27 Apr 2026 12:23:18 +0900</pubDate>
-      <itunes:episode>3</itunes:episode>
+      <pubDate>Mon, 27 Apr 2026 12:36:53 +0900</pubDate>
+      <itunes:episode>4</itunes:episode>
     </item>
   </channel>
 </rss>
